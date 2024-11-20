@@ -22,7 +22,6 @@ rdoc
 pkg
 .ruby-version
 gemfiles/*.gemfile.lock
-Gemfile.lock
 /tmp
 /.bundle
 /gemfiles/.bundle
